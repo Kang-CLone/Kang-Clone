@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- HEADER HI-TECH FUTURISTIC -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Welcome+to+GitHub+Kang+Clone...;AI-powered+Informatics+Explorer;Turning+Code+Into+Intelligence+%E2%9C%94%EF%B8%8F;Open+Source+Enthusiast+%E2%9C%A8;Dark+Mode.+Neon+Dreams.+Tech+Forever."/>
+</p>
 
-<!--
-**Kang-CLone/Kang-Clone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![kang clone](clone.png)
+---
 
-Here are some ideas to get you started:
+## 🧠 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+👤 Nama           : Kang Clone
+🎓 Status         : Mahasiswa Informatika
+🖥️ Spesialisasi   : Web Dev, Machine Learning, AI & CV
+🛠️ Tools          : Python, PHP, JS, OpenCV, MySQL, Git
+🧬 DNA Saya       : 50% Kopi | 25% Tidur | 25% Menghayal | 50% Coding Peke AI
+🧠 Moto Hidup     : "Selalu di jalan yang lurus."
