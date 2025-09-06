@@ -15,3 +15,5 @@
 🛠️ Tools          : Python, PHP, JS, OpenCV, MySQL, Git
 🧬 DNA Saya       : 50% Kopi | 25% Tidur | 25% Menghayal | 50% Coding Peke AI
 🧠 Moto Hidup     : "Selalu di jalan yang lurus."
+
+[📝 Tinggalkan Pesan untuk Kang Clone](https://kang-clone.github.io/leave-message/)
