@@ -5,18 +5,20 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="70%" />
 </div>
+
 ![kang clone](clone.png)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,opencv,mysql,git,tensorflow,pytorch,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kangclone&label=Profile+Views&color=00FF88&style=flat-square&labelColor=000000" alt="Profile views" />
-</p>
+
 <p align="center">
   <a href="https://github.com/kangclone"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/arif-kangclone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/kang.clone"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <!-- tambah link lain kalau ada -->
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,opencv,mysql,git,tensorflow,pytorch,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kangclone&label=Profile+Views&color=00FF88&style=flat-square&labelColor=000000" alt="Profile views" />
 </p>
 
 ## 🧠 Tentang Saya
@@ -30,6 +32,7 @@
 🧠 Moto Hidup     : "Selalu di jalan yang lurus."
 
 [📝 Tinggalkan Pesan untuk Kang Clone](https://kang-clone.github.io/leave-message/)
+
 
 
 
