@@ -5,6 +5,36 @@
 
 ![kang clone](clone.png)
 ---
+<div id="digital-clock" style="
+    font-family: 'Fira Code', monospace; 
+    color: #00FF88; 
+    background: #0d1117; 
+    padding: 15px 25px; 
+    border-radius: 10px; 
+    border: 2px solid #00FF88; 
+    display: inline-block; 
+    font-size: 32px; 
+    font-weight: bold; 
+    text-shadow: 0 0 10px #00FF88, 0 0 20px #00FF88;
+    box-shadow: inset 0 0 10px #00FF88;
+    letter-spacing: 2px;">
+    00:00:00
+</div>
+
+<script>
+    function updateClock() {
+        const now = new Date();
+        const hours = String(now.getHours()).padStart(2, '0');
+        const minutes = String(now.getMinutes()).padStart(2, '0');
+        const seconds = String(now.getSeconds()).padStart(2, '0');
+        
+        const clockElement = document.getElementById('digital-clock');
+        clockElement.textContent = `${hours}:${minutes}:${seconds}`;
+    }
+
+    setInterval(updateClock, 1000);
+    updateClock(); // Inisialisasi awal
+</script>
 
 ## 🧠 Tentang Saya
 
@@ -17,3 +47,4 @@
 🧠 Moto Hidup     : "Selalu di jalan yang lurus."
 
 [📝 Tinggalkan Pesan untuk Kang Clone](https://kang-clone.github.io/leave-message/)
+
