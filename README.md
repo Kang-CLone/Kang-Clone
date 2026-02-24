@@ -2,12 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Welcome+to+GitHub+Kang+Clone...;AI-powered+Informatics+Explorer;Turning+Code+Into+Intelligence+%E2%9C%94%EF%B8%8F;Open+Source+Enthusiast+%E2%9C%A8;Dark+Mode.+Neon+Dreams.+Tech+Forever."/>
 </p>
-
-![kang clone](clone.png)
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="70%" />
 </div>
+![kang clone](clone.png)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,opencv,mysql,git,tensorflow,pytorch,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
 </p>
@@ -32,6 +30,7 @@
 🧠 Moto Hidup     : "Selalu di jalan yang lurus."
 
 [📝 Tinggalkan Pesan untuk Kang Clone](https://kang-clone.github.io/leave-message/)
+
 
 
 
