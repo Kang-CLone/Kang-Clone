@@ -17,9 +17,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,opencv,mysql,git,tensorflow,pytorch,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kangclone&label=Profile+Views&color=00FF88&style=flat-square&labelColor=000000" alt="Profile views" />
-</p>
 
 ## 🧠 Tentang Saya
 
@@ -32,8 +29,3 @@
 🧠 Moto Hidup     : "Selalu di jalan yang lurus."
 
 [📝 Tinggalkan Pesan untuk Kang Clone](https://kang-clone.github.io/leave-message/)
-
-
-
-
-
